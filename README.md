@@ -1,3 +1,3 @@
 # jetfantasyfootball.github.io
 
-Test for README
+This is a repo for a experimental app for Fantasy Football.
