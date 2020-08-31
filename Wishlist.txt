@@ -1,0 +1,8 @@
+Show title of App on top of website
+Show Team name on website
+Show list of people on Team
+Allow people to be added to team
+Display current fantasy scores
+Create tier list based on current fantasy scores
+Display current stats of players playing
+Display current teams playing
